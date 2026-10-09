@@ -1,20 +1,20 @@
-# Đinh Thành Vinh — AI Portfolio
+# Dinh Thanh Vinh — AI Portfolio
 
-Portfolio tĩnh giới thiệu Backend, AI và dự án SmartParking ANPR.
+Static portfolio showcasing Backend, AI and the SmartParking ANPR project.
 
-## Triển khai trên Vercel
+## Deployment on Vercel
 
-1. Tạo repository GitHub mới, ví dụ `vinh-ai-portfolio`.
-2. Chọn **Add file → Upload files** và tải `index.html`, `vercel.json`, `README.md` vào thư mục gốc repository.
-3. Mở https://vercel.com/new và đăng nhập bằng GitHub.
-4. Import repository vừa tạo.
-5. Framework Preset: **Other**. Root Directory: giữ mặc định.
-6. Build Command: để trống. Output Directory: `.`. Không cần biến môi trường.
-7. Project Name: chọn tên mong muốn, ví dụ `vinh-ai-portfolio` nếu còn khả dụng.
-8. Chọn **Deploy**. Dùng URL Vercel trả về để điền vào form ứng tuyển.
+1. Create a new GitHub repository, e.g., `vinh-ai-portfolio`.
+2. Select **Add file → Upload files** and upload `index.html`, `vercel.json`, `README.md` to the root directory of the repository.
+3. Open https://vercel.com/new and log in with GitHub.
+4. Import the newly created repository.
+5. Framework Preset: **Other**. Root Directory: leave as default.
+6. Build Command: leave empty. Output Directory: `.`. No environment variables needed.
+7. Project Name: choose a desired name, e.g., `vinh-ai-portfolio` if available.
+8. Click **Deploy**. Use the returned Vercel URL to fill out your application form.
 
-URL ví dụ chỉ là tên dự kiến; URL thực tế được xác nhận sau khi deploy.
+The example URL is just a placeholder; the actual URL is confirmed after deployment.
 
-## Chỉnh sửa
+## Editing
 
-Nội dung và giao diện nằm trong `index.html`. Trang không cần backend hay cài đặt thư viện.
+Content and interface are located in `index.html`. The page doesn't require a backend or any library installations.
